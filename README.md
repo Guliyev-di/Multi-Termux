@@ -8,7 +8,7 @@
 
 1. Reponu klonla
    ```markdown
-   git clone https://github.com/Guliyev-di/Multi-Termux
+   pkg install git && git clone https://github.com/Guliyev-di/Multi-Termux
    ```
    
 2. Repoya daxil ol
