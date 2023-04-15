@@ -16,9 +16,10 @@
     cd Multi-Termux
    ```
 
-3. Setup qur
+3. Lazımlı faylları yüklə
     ```markdown
-   bash setup.sh
+   pkg update && pkg upgrade && pkg install python && pkg install python-pip && pip3 install -U pip && pip3 install colorama
+
     ```
 
 4. Kodu başlad
